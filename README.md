@@ -1,6 +1,6 @@
 ### Python Projects 
 - [Youtube Video info ][Youtube Video info] 
- - A Python script that extracts information of a youtube video when given a link
+A Python script that extracts information of a youtube video when given a link
 - [Turtle Races][Turtle Races]
  A python game where you can bet on a race of turles with differnt color .
 - [Hister Painting][Hister Painting]
