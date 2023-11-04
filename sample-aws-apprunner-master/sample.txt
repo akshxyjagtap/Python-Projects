@@ -1,0 +1,11 @@
+openai
+flask_restful
+pubnub
+pymongo
+pusher
+python-dotenv
+pydantic
+json
+requests
+flask
+urllib3==1.26.6
